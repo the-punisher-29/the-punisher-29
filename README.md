@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Soumen Kumar</h1>
 
 # 💫 About Me:
-I am a third-year Computer Science and Electrical engineering student at IIT Jodhpur, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a third-year Computer Science and Electrical Engineering student at IIT Jodhpur, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
 ## 🚀 What I'm Up To
 
